@@ -7,6 +7,7 @@ using OMRWebApp.Models;
 using System.Data.Entity;
 using MySql.Data.EntityFramework;
 // this a emp class
+//new comment
 namespace OMRWebApp.DAL
 {
     [DbConfigurationType(typeof(MySqlEFConfiguration))]
