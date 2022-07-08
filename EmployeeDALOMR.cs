@@ -9,7 +9,7 @@ using MySql.Data.EntityFramework;
 // this a emp class
 //new comment
 namespace OMRWebApp.DAL
-{
+{ // comment by onkar
     [DbConfigurationType(typeof(MySqlEFConfiguration))]
     public class EmployeeDALOMR: DbContext
     {
